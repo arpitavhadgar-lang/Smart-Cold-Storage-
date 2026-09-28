@@ -1,6 +1,6 @@
 
 ☀️ 1. Solar Power System
-Solar PV panels — generate electricity
+ bifecial Solar PV panels — generate electricity
 MPPT solar charge controller — extracts maximum solar power
 Battery bank — stores energy for night/cloudy periods
 DC/AC inverter — converts DC to AC if AC appliances are used
@@ -54,4 +54,4 @@ Emergency ON/OFF switch
 Terminal blocks
 Electrical wires and cables
 Cable glands/conduits
-Earthing electrodes and wires
+Earthing electrodes and wire
